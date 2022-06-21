@@ -1,5 +1,5 @@
 # IknowJS
-You Don't Know JS 스터디 (<b>Since. 20220621</b>)
+You Don't Know JS 스터디 (<b>Since. 20220630</b>)
 
 [교재] <br/>
 1권: https://book.naver.com/bookdb/book_detail.nhn?bid=12199050 <br/>
@@ -13,7 +13,7 @@ You Don't Know JS 스터디 (<b>Since. 20220621</b>)
 ## 스터디 일정
 - 요일: 화요일
 - 시간: 오후 8시
-- 시작일: 2022.06.21
+- 시작일: 2022.06.30
 - 방식: 비대면(디스코드, 임시)
 
 
