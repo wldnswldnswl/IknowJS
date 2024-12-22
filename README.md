@@ -1,7 +1,7 @@
 # IknowJS
 ## 🚗 현재 진행 중
-### 소프트웨어 아키텍처 101 (<b>20240807 ~ </b>)
-- https://product.kyobobook.co.kr/detail/S000001810445
+### 프레임워크 없는 프론트엔드 개발 (<b>20241105 ~ </b>)
+- [https://product.kyobobook.co.kr/detail/S000001810445](https://product.kyobobook.co.kr/detail/S000001804992)
 
 ## 참여자
 이지운, 박슬우, 김희주, 서주희
@@ -29,8 +29,10 @@
 
 ## 🥇 진행 완료!
 ### You Don't Know JS (<b>20220630 ~ 20230725</b>) <br/>
-- 1권: https://book.naver.com/bookdb/book_detail.nhn?bid=12199050 <br/>
-- 2권: https://book.naver.com/bookdb/book_detail.nhn?bid=12298924
+- 1권: [https://product.kyobobook.co.kr/detail/S000001057933](https://product.kyobobook.co.kr/detail/S000001057933)
+- 2권: [https://product.kyobobook.co.kr/detail/S000001057934](https://product.kyobobook.co.kr/detail/S000001057934)
 ### 쏙쏙 들어오는 함수형 코딩 (<b>20230801 ~ 20240529</b>) <br/>
-- https://product.kyobobook.co.kr/detail/S000001952246
+- [https://product.kyobobook.co.kr/detail/S000001952246](https://product.kyobobook.co.kr/detail/S000001952246)
+### 소프트웨어 아키텍처 101 (<b>20240807 ~ 20241008</b>)
+- [https://product.kyobobook.co.kr/detail/S000001810445](https://product.kyobobook.co.kr/detail/S000001810445)
 
