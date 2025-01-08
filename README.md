@@ -1,7 +1,7 @@
 # IknowJS
 ## 🚗 현재 진행 중
-### 프레임워크 없는 프론트엔드 개발 (<b>20241105 ~ </b>)
-- [https://product.kyobobook.co.kr/detail/S000001810445](https://product.kyobobook.co.kr/detail/S000001804992)
+### 프론트엔드 성능 최적화 가이드 (<b>20241105 ~ </b>)
+- [https://product.kyobobook.co.kr/detail/S000200178292](https://product.kyobobook.co.kr/detail/S000200178292)
 
 ## 참여자
 이지운, 박슬우, 김희주, 서주희
