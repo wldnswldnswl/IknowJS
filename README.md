@@ -1,7 +1,7 @@
 # IknowJS
 ## 🚗 현재 진행 중
-### 프론트엔드 성능 최적화 가이드 (<b>20241105 ~ </b>)
-- [https://product.kyobobook.co.kr/detail/S000200178292](https://product.kyobobook.co.kr/detail/S000200178292)
+### IT 엔지니어를 위한 네트워크 입문 (<b>20250226 ~ </b>)
+- [https://product.kyobobook.co.kr/detail/S000001834493](https://product.kyobobook.co.kr/detail/S000001834493)
 
 ## 참여자
 이지운, 박슬우, 김희주, 서주희
@@ -35,4 +35,5 @@
 - [https://product.kyobobook.co.kr/detail/S000001952246](https://product.kyobobook.co.kr/detail/S000001952246)
 ### 소프트웨어 아키텍처 101 (<b>20240807 ~ 20241008</b>)
 - [https://product.kyobobook.co.kr/detail/S000001810445](https://product.kyobobook.co.kr/detail/S000001810445)
-
+### 프론트엔드 성능 최적화 가이드 (<b>20241105 ~ 20250205</b>)
+- [https://product.kyobobook.co.kr/detail/S000200178292](https://product.kyobobook.co.kr/detail/S000200178292)
